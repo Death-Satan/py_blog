@@ -1,10 +1,10 @@
-#Django2.1+layui
-##环境要求
+# Djwango2.1+layui
+## 环境要求
 ~~~
 本地环境： python3.7,Mysql >=5.6
 Python库:Django2.1,Fillow,pymysql  
 ~~~
-##安装步骤
+## 安装步骤
 ~~~
 修改bbs\settings.py 
 ALLOWED_HOSTS = 域名
