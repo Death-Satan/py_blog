@@ -1,4 +1,4 @@
-# Djwango2.1+layui
+# Django2.1+layui
 ## 环境要求
 ~~~
 本地环境： python3.7,Mysql >=5.6
